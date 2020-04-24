@@ -92,7 +92,7 @@ How to use
   
   
  <p align= "center">
-  <img src = "countwords/whale.png">  
-<img src = "countwords/test.png">
+  <img src = "src/Interface.png">  
+<img src = "src/DepoAccount.png">
 </p>
 
