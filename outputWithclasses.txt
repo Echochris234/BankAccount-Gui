@@ -1,0 +1,47 @@
+	        ACCOUNTS IN THE DATA BASE:
+	       ****************************
+Name        |SSN#         |Acct#       |Balance     |AcctType       |Status
+      
+Bill  Scott   111-11-1111   100000       $560.32      Checking      Open 
+ 
+ 
+Bill  Scott   111-11-1111   100001       $300         Saving        Open 
+ 
+ 
+Jane  Doe     222-22-2222   200000       $210.32      CD            Open 
+ 
+Updated On: 2/21/2015      
+Matures On: 8/21/2015        
+Term Of CD:  6 
+ 
+John  Smith   333-33-3333   300000       $86.64       Checking      Open 
+ 
+ 
+Tom   Gates   444-44-4444   400000       $1.45        Saving        Open 
+ 
+ 
+Will  Smith   555-55-5555   500000       $154.11      Saving        Open 
+ 
+ 
+Aunt  May     666-66-6666   600000       $942.21      CD            Open 
+ 
+Updated On: 1/5/2015      
+Matures On: 7/5/2015        
+Term Of CD:  6 
+ 
+Alan  Leigh   777-77-7777   700000       $7.43        Checking      Open 
+ 
+ 
+Dill  Pick    888-88-8888   800000       $421.54      CD            Open 
+ 
+Updated On: 4/15/2015      
+Matures On: 10/15/2016        
+Term Of CD:  18 
+ 
+Plan  Tain    999-99-9999   900000       $32.12       Checking      Open 
+ 
+ 
+Old   Mang    000-00-0000   111111       $100         Saving        Open 
+ 
+ 
+
