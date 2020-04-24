@@ -94,5 +94,9 @@ How to use
  <p align= "center">
   <img src = "src/Interface.png">  
 <img src = "src/DepoAccount.png">
+    <img src = "src/DepoReciept.png">  
+<img src = "src/DepoAccount.png">
+    <img src = "src/Withdrawal.png">  
+<img src = "src/WithReciept.png">
 </p>
 
