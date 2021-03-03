@@ -62,7 +62,6 @@ This section should list any major frameworks that you built your project using.
 * [Ecliplse](https://www.eclipse.org)
 * [Java](https://docs.oracle.com/javase/7/docs/api/)
 * [JavaSwing](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
-* [Laravel](https://laravel.com)
 
 
 
