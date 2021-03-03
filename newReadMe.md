@@ -154,7 +154,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Christian Vargas - [@your_twitter](https://twitter.com/your_username) - ChristianVargas1595@gmail.com
+Christian Vargas - ChristianVargas1595@gmail.com
 
 Project Link: [https://github.com/Echochris234/BankAccount-Gui](https://github.com/Echochris234/BankAccount-Gui)
 
